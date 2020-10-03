@@ -21,12 +21,12 @@
 }
 .recommended-friends__title {
   font-size: 14px;
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--main-gray-font);
 }
 .recommended-friends span {
   display: block;
   margin: 110px 0px;
   text-align: center;
   font-size: 18px;
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--main-gray-font);
 }
