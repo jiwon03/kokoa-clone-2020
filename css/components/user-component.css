@@ -43,3 +43,7 @@
   margin-bottom: 10px;
   display: block;
 }
+
+#chats .user-component {
+  margin-bottom: 20px;
+}
