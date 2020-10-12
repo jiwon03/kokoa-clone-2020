@@ -35,7 +35,7 @@
     visibility: hidden;
   }
 }
-#splashi-screen {
+#splash-screen {
   background-color: var(--yellow);
   position: absolute;
   height: 100vh;
@@ -47,4 +47,9 @@
   font-size: 130px;
   animation: hideSplashScreen 0.3s ease-in-out forwards;
   animation-delay: 1s;
+}
+#splash-screen img {
+  width: 30px;
+  height: 30px;
+  position: absolute;
 }
